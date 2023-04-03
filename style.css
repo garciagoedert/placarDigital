@@ -2,8 +2,8 @@ body {
 /*   background-image: url(https://topma.com.br/wp-content/uploads/2023/04/Design-sem-nome.png);
   font-family: "Montserrat", sans-serif;
   background-position: center left; */
-  background: rgb(245,245,246);
-background: radial-gradient(circle, rgba(245,245,246,1) 0%, rgba(228,228,236,1) 35%, rgba(202,204,204,1) 100%);
+  background: rgb(85,85,96);
+background: radial-gradient(circle, rgba(85,85,96,1) 0%, rgba(57,57,71,1) 35%, rgba(0,0,0,1) 100%);
   font-family: "Montserrat", sans-serif;
 }
 
